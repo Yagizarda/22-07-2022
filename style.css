@@ -1,0 +1,19 @@
+.inherit{
+   padding: 10px;
+   border: 5px solid rgb(40, 2, 2);
+   width: 70%;
+   margin: auto;
+   
+
+} 
+.sınıff{
+   border:inherit ;
+   width:inherit ;
+   padding: inherit;
+}
+   .border-ridge{
+border-style: ridge;
+padding:   solid ;
+color: rgb(6, 0, 0) ;
+border-radius: 10px 
+   }
