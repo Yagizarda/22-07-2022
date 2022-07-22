@@ -1,0 +1,28 @@
+h2{
+   text-align: center;
+}
+ .sınıff table,th,td{
+border-bottom: 2px solid rgb(91, 88, 88);
+  
+   
+   
+ }
+ .sınıff {
+   width: 50%;
+   border-collapse: collapse;
+ }
+ .sınıff, td, th{
+   height: 25px;
+   text-align: justify ;
+   }
+    tr :hover{
+      background-color: aqua;
+   }
+   .sınıff th{
+      
+      background-color: darkred;
+      color: white;
+   }
+   .sınıff td:nth-child(odd){
+      background-color: #dddddd;
+   }
